@@ -7,7 +7,7 @@ namespace ProyectoCiclo3.App.Dominio{
     public string fecha { get; set; }
     public string hora { get; set; }
     public string encomienda { get; set; }
-    
+    //comentariopublic string codigo { get; set; }
     }
 
 }
